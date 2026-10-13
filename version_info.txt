@@ -1,0 +1,26 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 0, 0, 0),
+    prodvers=(1, 0, 0, 0),
+    mask=0x3f,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo([
+      StringTable('040904B0', [
+        StringStruct('CompanyName', 'HDR2KTX2'),
+        StringStruct('FileDescription', 'HDR to IBL cubemap KTX2 converter'),
+        StringStruct('FileVersion', 'v1.0'),
+        StringStruct('InternalName', 'HDR2KTX2'),
+        StringStruct('OriginalFilename', 'HDR2KTX2.exe'),
+        StringStruct('ProductName', 'HDR2KTX2'),
+        StringStruct('ProductVersion', 'v1.0')
+      ])
+    ]),
+    VarFileInfo([VarStruct('Translation', [1033, 1200])])
+  ]
+)
